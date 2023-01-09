@@ -5,3 +5,9 @@ Enjoy :)
 
 
 Telegram : @Capitos_Kamal
+
+
+# How To Use
+
+
+python run.py list.txt
