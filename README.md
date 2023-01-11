@@ -11,3 +11,12 @@ Telegram : @Capitos_Kamal
 
 
 python run.py list.txt
+
+
+Support me To encourage in more tools
+
+BTC MY WALLET :
+
+36o1woeMZUTUwEwj77Vh7iCusWdndFkV1C
+
+Thanks
