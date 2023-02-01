@@ -4,7 +4,7 @@ Find out for yourself
 Enjoy :)
 
 
-Telegram : @Capitos_Kamal
+Telegram : https://t.me/CapitosKamal
 
 
 # How To Use
